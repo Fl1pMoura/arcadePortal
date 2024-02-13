@@ -6,7 +6,7 @@ function App() {
     <>
     <Header/>
     <main className='bg-slate-600 h-screen block font-sans'>
-    
+
     </main>
     </>
   )
